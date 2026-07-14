@@ -79,7 +79,7 @@ context: fork
 - `references/master-selection.md`：标准模式 01-06 母版选择、质量锚点、变异要求和出图拦截规则。
 - `references/prompt-template.md`：单张生图提示词模板。
 - `references/qa-checklist.md`：生成后质量检查、失败信号和迭代方向。
-- `assets/examples/`：高质量模板母版和出图质量标尺。`01-06` 是标准 16:9 质量锚点；`07-long-scroll-story-master.png` 是彩蛋长卷模式唯一核心母版。标准图必须对齐它们的比例、留白、物件真实感、小黑气质、短标签密度、点缀色节奏和动作清晰度；不要复刻物件组合、空间拓扑、小黑姿态或标签位置。
+- `assets/examples/`：高质量模板母版和出图质量标尺。`01-06` 是标准 16:9 质量锚点；`07-long-scroll-story-master.png` 是彩蛋长卷模式唯一核心母版；`anchors/` 是“穿不同颜色工作服的黑色猫耳小猫”角色锚点。生成时必须优先对齐角色底盘、服装颜色语义、真实物件动作和留白气质；不要复刻物件组合、空间拓扑、小黑姿态或标签位置。
 
 开始前确认：
 
