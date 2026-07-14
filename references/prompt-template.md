@@ -23,7 +23,7 @@ Scene budget:
 One core physical action only. One real main object or one compact main object group only. At most 1 small prop for first-pass previews, 2 maximum only when necessary. At most 3 handwritten Chinese labels. Do not include every noun from the theme. Remove any object that does not serve the core physical conflict. Avoid using the same signature prop set as the selected master.
 
 Xiaohei IP:
-Small black solid irregular bean / soft capsule creature with tiny white dot eyes, thin arms and legs, blank serious expression. Xiaohei may be slightly taller, shorter, fatter, or thinner depending on the object and action, but changes are subtle. Xiaohei must perform the core physical action, not decorate the scene.
+Small solid matte-black cat-eared Xiaohei wearing a simple low-saturation colored work shirt, with an oversized almost-round head, two small triangular ears, a smaller compact torso, white oval eyes with tiny black pupils, thin arms and legs, and a blank serious expression. Xiaohei may be slightly taller, shorter, fatter, or thinner depending on the object and action, but changes are subtle. Xiaohei must perform the core physical action, not decorate the scene.
 
 Color character routing:
 Use {默认小黑 / 小红 / 小绿 / 小蓝 / 小黄 / 组合角色} because {颜色选择理由}. All Xiaohei variants share the same exact body silhouette, tiny white dot or oval eyes, thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes. If multiple Xiaohei variants appear, each must have a clear physical role: {组合关系}. Do not use color as decoration.
@@ -80,7 +80,7 @@ Background:
 Use a premium near-white background, not dead pure white. Keep a subtle white studio air feeling close to #FAFAF8 or #FBFBFA. The background must still be clean, light, and high-end: no dirty grey, no warm yellow, no paper texture, no heavy vignette, no poster gradient. Only very light contact shadows under objects and Xiaohei.
 
 Xiaohei IP:
-Small black matte rounded bean / soft capsule Xiaohei, slightly chubby, simple white oval eyes, tiny thin arms and legs. Cute but premium, weird but restrained. Xiaohei must participate in each milestone action, not decorate the route.
+Small matte-black cat-eared Xiaohei wearing a simple colored work shirt, with an oversized almost-round head, two small triangular ears, a smaller compact torso, simple white oval eyes, tiny thin arms and legs. Cute but premium, weird but restrained. Xiaohei must participate in each milestone action, not decorate the route.
 
 Color character routing:
 Use color variants only when milestone semantics need them. Main narrative defaults to matte black Xiaohei. Optional node colors: muted mustard-yellow for launch / warm-up / opportunity, muted cobalt-blue for system / tools / data, muted deep tomato-red for conflict / alarm / emotional peak, muted deep grass-green for repair / recovery / connection. All variants keep the same Xiaohei body silhouette, white eyes, thin limbs, blank serious expression, no clothes, and physical-action logic; only matte body color changes. Do not mechanically assign a different color to every node.
@@ -149,5 +149,5 @@ Regenerate the image with the same core metaphor, but reduce visual complexity. 
 修正小黑：
 
 ```text
-Keep the scene and objects similar, but adjust Xiaohei only: make it a recognizable black solid Xiaohei with tiny white dot eyes, thin limbs, blank serious expression, and a slightly irregular bean/capsule body. It can be subtly fatter or thinner for the action, but must not become a cute mascot.
+Keep the scene and objects similar, but adjust Xiaohei only: make it a recognizable matte-black cat-eared Xiaohei with two small triangular ears, white oval eyes with tiny black pupils, thin limbs, blank serious expression, and a compact torso. It can be subtly fatter or thinner for the action, but must not become a realistic cat or cute mascot.
 ```

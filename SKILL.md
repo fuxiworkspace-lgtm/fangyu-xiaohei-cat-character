@@ -29,7 +29,7 @@ context: fork
 
 唯一不继承的是原 Skill 的“小黑角色 IP 描述”。角色外形、比例、眼睛、身体结构、材质、颜色版本和负面约束，全部以项目根目录的 `xiaohei-character-lock.md` 为唯一标准。
 
-特别说明：原有 `references/color-characters.md` 的颜色语义、路由和配色纪律继续继承；其中涉及角色外形的部分必须让位于 `xiaohei-character-lock.md`，不得恢复原版黑豆 / 软胶囊形象。
+特别说明：原有 `references/color-characters.md` 的颜色语义、路由和配色纪律继续继承；其中涉及角色外形的部分必须让位于 `xiaohei-character-lock.md`，统一使用房语猫耳小黑形象。
 
 如果本 Skill 与既有场景工作流的非角色规则出现冲突，优先遵循原工作流；如果与角色外形有关，优先遵循 `xiaohei-character-lock.md`。
 
