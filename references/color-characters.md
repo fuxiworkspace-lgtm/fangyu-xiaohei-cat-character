@@ -8,6 +8,8 @@
 
 最重要的视觉规则：身体永远是黑色，衣服颜色负责区分角色。不要把它理解成彩色身体的小人。
 
+视觉标准锚点：`assets/examples/color-character-family-cat-clothing.png`。当角色形体、服装比例或颜色关系不确定时，优先回看这张图。
+
 核心原则：
 
 ```text
