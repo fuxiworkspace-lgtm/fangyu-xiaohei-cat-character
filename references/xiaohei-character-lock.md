@@ -123,7 +123,7 @@ Xiaohei, matte-black body with a soft warm cream work shirt (#E8DFCF), oversized
 
 - 颜色必须是低饱和、哑光、略带粉尘感的固体色，不要金属色、荧光色、渐变色或高光塑料色。
 - 两个眼睛默认仍为小白点或小白椭圆；奶油白变体可改为深灰或黑色眼睛，以确保清晰可见。除此之外不改变眼睛形状和位置。
-- 同一张图建议只出现一种小黑身体颜色；如果必须出现多个小黑，使用同一色系的明度变化，不要做彩虹角色组。
+- 同一张图可以出现多种工作服颜色，但必须有清晰语义分工；不要做无意义的彩虹角色组。
 - “小黑”是角色名字，不要求身体永远是黑色；无论采用哪种颜色，都要保留低调、认真、安静的角色气质。
 
 ### 可直接追加到英文提示词的颜色模块
@@ -163,5 +163,5 @@ Small [COLOR] Xiaohei with an oversized round head and small compact torso
 例如：
 
 ```text
-Small muted terracotta red Xiaohei with an oversized round head, small compact torso, prominent white oval eyes with tiny black pupils, short thin limbs, blank serious expression, no clothes, no cute mascot styling. It must physically interact with real objects; its cuteness comes from seriously doing absurd work.
+Small matte-black cat-eared Xiaohei wearing a muted terracotta red work shirt, with an oversized almost-round head, small compact torso, prominent white oval eyes with tiny black pupils, short thin limbs, blank serious expression, no logo, no complex pattern, no cute mascot styling. It must physically interact with real objects; its cuteness comes from seriously doing absurd work.
 ```
