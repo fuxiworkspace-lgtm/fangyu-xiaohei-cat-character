@@ -26,7 +26,7 @@ Xiaohei IP:
 Small solid matte-black cat-eared Xiaohei wearing a simple low-saturation colored work shirt, with an oversized almost-round head, two small triangular ears, a smaller compact torso, white oval eyes with tiny black pupils, thin arms and legs, and a blank serious expression. Xiaohei may be slightly taller, shorter, fatter, or thinner depending on the object and action, but changes are subtle. Xiaohei must perform the core physical action, not decorate the scene.
 
 Color character routing:
-Use {默认小黑 / 小红 / 小绿 / 小蓝 / 小黄 / 组合角色} because {颜色选择理由}. All Xiaohei variants share the same exact body silhouette, tiny white dot or oval eyes, thin limbs, blank serious expression, no clothes, no hats, and the same physical-action logic. Only the matte body color changes. If multiple Xiaohei variants appear, each must have a clear physical role: {组合关系}. Do not use color as decoration.
+Use {默认小黑 / 小红 / 小绿 / 小蓝 / 小黄 / 组合角色} because {颜色选择理由}. All Xiaohei variants share the same exact black body, cat ears, tiny white dot or oval eyes, thin limbs, blank serious expression, and the same physical-action logic. Only the simple matte work-shirt color changes. If multiple Xiaohei variants appear, each must have a clear physical role: {组合关系}. Do not use clothing color as decoration.
 
 Theme:
 {主题}
@@ -83,7 +83,7 @@ Xiaohei IP:
 Small matte-black cat-eared Xiaohei wearing a simple colored work shirt, with an oversized almost-round head, two small triangular ears, a smaller compact torso, simple white oval eyes, tiny thin arms and legs. Cute but premium, weird but restrained. Xiaohei must participate in each milestone action, not decorate the route.
 
 Color character routing:
-Use color variants only when milestone semantics need them. Main narrative defaults to matte black Xiaohei. Optional node colors: muted mustard-yellow for launch / warm-up / opportunity, muted cobalt-blue for system / tools / data, muted deep tomato-red for conflict / alarm / emotional peak, muted deep grass-green for repair / recovery / connection. All variants keep the same Xiaohei body silhouette, white eyes, thin limbs, blank serious expression, no clothes, and physical-action logic; only matte body color changes. Do not mechanically assign a different color to every node.
+Use clothing color variants only when milestone semantics need them. Main narrative defaults to a black work shirt. Optional shirt colors: muted mustard-yellow for launch / warm-up / opportunity, muted cobalt-blue for system / tools / data, muted deep tomato-red for conflict / alarm / emotional peak, muted deep grass-green for repair / recovery / connection. All variants keep the same black body, cat ears, white eyes, thin limbs, blank serious expression, and physical-action logic; only the simple matte work-shirt color changes. Do not mechanically assign a different shirt color to every node.
 
 Story theme:
 {长卷主题}
