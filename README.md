@@ -1,6 +1,8 @@
 # 房语小黑：让内容穿上颜色，开始行动
 
-🌐 **Language / 语言：** [中文](README.md) · [English](README.en.md)
+🌐 **Language 
+
+语言：** [中文](README.md) · [English](README.en.md)
 
 `fangyu-xiaohei-character` 是一套面向中文内容创作的角色视觉 Skill。
 
