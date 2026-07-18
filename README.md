@@ -10,6 +10,8 @@
 
 这里的颜色不是装饰，衣服也不是道具。工作服颜色决定小猫在故事里的身份：谁在报警，谁在修复，谁在调系统，谁在点亮机会。真实物件和物理动作，则让抽象内容变成读者一眼就能读懂的现场。
 <img width="1672" height="940" alt="image" src="https://github.com/user-attachments/assets/27ce9cef-3391-4107-aa2f-fb5567ecec1e" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/fa680b7e-16b8-41f1-bbc6-6e8293e697de" />
+
 
 
 ## 给这个 Skill 一颗 Star
